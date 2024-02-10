@@ -1,5 +1,9 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Maleesha Aluwihare</h1>
 <h3 align="center">I am undergraduate student in IT field</h3>
+<div align="center">
+ <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</div>
 
 <p align="left"> <a href="https://twitter.com/c_malsha" target="blank"><img src="https://img.shields.io/twitter/follow/c_malsha?logo=twitter&style=for-the-badge" alt="c_malsha" /></a> </p>
 
